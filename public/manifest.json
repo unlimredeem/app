@@ -1,0 +1,21 @@
+{
+  "name": "Code & Fun",
+  "short_name": "Code&Fun",
+  "description": "Learn to code with interactive tools and a live editor.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
